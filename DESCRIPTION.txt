@@ -1,0 +1,13 @@
+
+ploofy
+======
+
+A simple python Code that helps Patriots counter Twitter censoring.
+
+Installation
+------------
+
+::
+    pip install ploofy
+    python setup.py install
+::
